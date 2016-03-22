@@ -29,3 +29,5 @@ Fizz
 Fizz
 Buzz
 ```
+
+What if someone needs it to work from 500-2000? What about any number?
